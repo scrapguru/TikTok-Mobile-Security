@@ -15,6 +15,9 @@ Sign TikTok Mobile API requests.
 
 For support, contact me on Telegram https://t.me/scrapguru
 
+## DEMO
+
+Contact us to test the X-Argus API.
 
 ## Screenshots
 
